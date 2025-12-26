@@ -93,6 +93,15 @@
 				<version>3.3.2</version>
 				<!-- ✅ Safe for Java 11+ -->
 			</plugin>
+			<build>
+  <plugins>
+    <plugin>
+      <groupId>org.sonarsource.scanner.maven</groupId>
+      <artifactId>sonar-maven-plugin</artifactId>
+      <version>5.0.0.4389</version> <!-- Use latest version -->
+    </plugin>
+  </plugins>
+</build>
 			<plugin>
 				<groupId>org.jacoco</groupId>
 				<artifactId>jacoco-maven-plugin</artifactId>
