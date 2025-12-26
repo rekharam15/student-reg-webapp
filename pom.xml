@@ -12,8 +12,8 @@
 		<java.version>11</java.version>
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
-		<sonar.host.url>http://13.233.141.239:9000/</sonar.host.url>
-		<sonar.token>sqa_4b07259c31e0066baf600bc1d8ed6cfc95d0e75b</sonar.token>
+		<sonar.host.url>http://35.154.67.181:9000/</sonar.host.url>
+		<sonar.token>sqa_e91e3917c7b036a8b6ac5af8b68961d4b68f0988</sonar.token>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 		<sonar.sources>src/main/java</sonar.sources>
